@@ -1,0 +1,36 @@
+body {background-color: darkorange;}
+
+p {
+    font-family: sans-serif;
+}
+p:hover {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/* #one {
+    color: blue;
+}
+
+#two {
+color: brown;
+}
+
+three {
+    color: gold;
+}
+
+#four {
+    color: indigo;
+}
+
+.bordered {
+    border: 2px solid black
+}
+.background-black {
+    background-color: black
+}
+
+.border-radius {
+    box-shadow: 2px salmon;
+} */

@@ -1,0 +1,19 @@
+body{background-color: grey;
+}
+   
+h1 {color: red;
+}
+
+p{
+    font-style: italic;
+}
+ul{
+    border: 2px solid black
+}
+li {
+    background-color: lightblue
+}
+
+ul li:nth-child(even) {
+    margin-bottom: 10px;
+}
