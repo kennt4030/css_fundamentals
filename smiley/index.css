@@ -69,3 +69,10 @@
     left: 1em;
     background-color: black; 
 }
+
+.face {
+    width: 75px;
+    height: 75px;
+    border: solid 2px black;
+    background-color: yellow;
+    border: 50px;
